@@ -43,6 +43,25 @@ Use pivot tables and calculated columns where necessary to answer the following:
 - Identify the top 5 products in terms of rating and number of reviews combined.
 - Final Task: Dashboard Creation
 Using your cleaned datasets and pivot outputs, build an Excel dashboard
+## Data Analysis:
+The Average Discount Percentage by products category is done using the pivot table by putting the category inside row and Discount Percentage inside value, and the table was display and visualized.
+The same procedures were applied to all the other questions by dropping the data into their appropriate field in the pivot table and the results were displayed.
+Some other activities were carried out such as sorting in other to get the expected and desired results.
+After that, charts were used to visualized the results and it was used to build the report and dashboard.
+## Results:
+- The product with the highest average rating is Borosil Jombo 1000-watt
+= 4.0967
+- Product with the highest number of reviews is Amazon Basic High-speed= 853,946
+Products fewer than 1,000 reviews  = 326
+- Distribution of product rating 
+- =5                        (3)
+- <5>4                      (926)
+- =4                        (181)
+- <4>3                      (344)
+- =3                         (4)
+- <3>2                       (5)
+- =2                         (1)
+
 
 
 
