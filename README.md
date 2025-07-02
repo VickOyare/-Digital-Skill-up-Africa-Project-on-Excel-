@@ -62,7 +62,8 @@ Products fewer than 1,000 reviews  = 326
 - <3>2                       (5)
 - =2                         (1)
 
-
+- Category with the product ofhighest discount is Electronic/Hometheater,TV&Video
+- Product is Sony Bravia164cm(65) = 77990
 
 
 
