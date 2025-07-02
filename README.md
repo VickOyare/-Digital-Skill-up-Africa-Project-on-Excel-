@@ -7,3 +7,19 @@ The data contained some unnecessary data  and those data were eliminated out of 
 After removing the null, empty rows and unnecessary data, duplicates were combined into a single row, names of the products and categories were shortened and all these were done during cleaning and wrangling of the data.
 After cleaning and wrangling the data, it was moved into the pivot table were used the analysis was done by following the expected steps as stated in the case study.
 Lastly the results of the data analyzed using the pivot table were used to build the dashboard.
+## Data Sources: 
+Excel file provided by Digital Skill-up Africa Project Team (from Amazon company)
+## Tools Used:
+#### MS Excel:
+For:
+- Data collection
+- Data Cleaning
+- Data Analysis
+- Building reports and Dashboard
+#### MS Word
+#### GitHub
+## Data Cleaning/Preparation:
+This involves the following steps:
+- The table containing the data was loaded into the excel.
+- Examination of the data was done and some were eliminated because they contained null, empty and unnecessary data that are not needed in the analysis.
+All these were done with the help of excel functions and shortcuts.
