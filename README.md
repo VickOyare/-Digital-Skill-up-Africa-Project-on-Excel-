@@ -67,7 +67,16 @@ Products fewer than 1,000 reviews  = 326
   
 ### In conclusion 
 
-The products with the highest rating between >3<5 should be produce more, so also those with high review
+The products with the highest rating between >3<5 should be produce more, so also those with high review.
+
+Amazon Basic High-speed have the highest rating of 853,946, therefore it should be produced more since most customers make use of the products.
+
+Borosil Jumbo 1000-watt has the highest average rating of 4.0967, therefore it should be produced and distributed more.
+
+The product with the price range of 1,000-9,999 has the highest number of products sold, therefore such products should be manufactured more to avoid been out of stock.
+
+Most of the products are rated between 5 and 4. This is an indication that the products are of good quality and it's serving the customers by meeting their needs, therefore the company should maintain the formulas used in the manufacturer of the products or rather improve more instead of reducing it's quality.
+
 
 ##### Click the file to see the summary of the Analysis and dashboard
 
