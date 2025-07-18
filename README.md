@@ -64,7 +64,10 @@ Products fewer than 1,000 reviews  = 326
 
 - Category with the product of highest discount is Electronic/Hometheater,TV&Video
 - Product is Sony Bravia164cm(65) = 77990
-  In conclusion the products with the highest rating between >3<5 should be produce more, so also those with high review
+  
+###In conclusion 
+
+The products with the highest rating between >3<5 should be produce more, so also those with high review
 
 ##### Click the file to see the summary of the Analysis and dashboard
 
